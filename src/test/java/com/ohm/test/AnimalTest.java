@@ -29,7 +29,7 @@ public class AnimalTest {
 	public void setNameTest() {
 		
 		animal.setName("Dog");
-		assertEquals(animal.getName(),"Cat");
+		assertEquals(animal.getName(),"Dog");
 	}
 	@Test
 	public void soundTest() {
